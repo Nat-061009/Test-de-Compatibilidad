@@ -48,11 +48,18 @@
     <p class="nombre" >
     <?php
     echo $sub3;
+    
+    ?>  </p><p class="nombre" >
+    <?php
+    
+    echo $n1." y ".$n2;
+  
     ?>  </p>
     </form>
     
 
 </body>
 </html>
+
 
 
