@@ -47,15 +47,16 @@
     </p> 
     <p class="nombre" >
     <?php
-    echo $sub3;
-     echo $n1;
-    echo $n2;
+   echo $sub3.":".$n1." y ".$n2    ;
+
+     
     ?>  </p>
     </form>
     
 
 </body>
 </html>
+
 
 
 
