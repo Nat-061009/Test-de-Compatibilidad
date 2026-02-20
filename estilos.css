@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(57, 65, 88);
+}
+#cabeza{
+    text-align: center;
+    font-weight: bold;
+    background-color: skyblue;
+    color: navy;
+    font-size: 30px;
+    height: 110px;
+    font-family: sans-serif;
+}
+#cuerpo #nom1{
+    margin-left: 15.01%;
+    height: 35px;
+
+}
+#cuerpo #nom2{
+    margin-left: 3%;
+    height: 35px;
+
+}
+#cuerpo .boton{
+    margin-left: 43.3%;
+    height: 35px;
+}
+#cuerpo{
+    margin-top: 100px;
+    background-color: aliceblue;
+    height: 200px;
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+#cuerpo .nombre{
+    margin: auto;
+    font-size: 30px;
+    font-family: sans-serif;margin-left: 43.3%;
+    font-weight: bolder;
+    color: crimson;
+}
+#cuerpo .porcentaje{
+    margin: auto;
+    font-size: 30px;
+    font-family: sans-serif;margin-left: 43.3%;
+    font-weight: bolder;
+    color: palevioletred;
+    text-shadow: 10px crimson;
+    
+}
